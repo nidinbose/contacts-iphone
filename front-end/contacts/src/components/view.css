@@ -1,0 +1,151 @@
+.main{
+    background-color:rgb(255, 255, 255);
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-image: url();
+}
+
+.inn{
+
+/* padding-top: 2%; */
+background-color: rgb(18, 18, 18);
+width: 20%;
+height: 80vh;
+display: flex;
+align-items: start;
+justify-content: center;
+flex-direction: column;
+border-style: double;
+margin-left: 40%;
+margin-bottom: 7%;
+margin-top: 3%;
+border-radius: 80px;
+
+}
+
+.b img{
+    width: 37%;
+    /* margin-top: 5%; */
+    border-radius: 80px;
+}
+
+.b{
+    display: block;
+    align-items: center;
+    text-align: center;
+    /* margin-left:2%; */
+    margin-top: 2%;
+    background-color: rgb(18, 18, 18);
+    border-radius: 10px;
+    padding-top: 2%;
+}
+
+.b h1{
+    font-size: 19px;
+    color: white;
+}
+.phone{
+    background-color: rgb(74, 74, 74);
+    width: 16vw;
+    height: 6vh;
+    border-radius: 7px;
+    padding-left: 4%;
+    color: white;
+}
+.phone h1{
+    font-size: 15px;
+     height: 1vh;
+}
+
+.email{
+    background-color: 
+    rgb(74, 74, 74);
+    width: 16vw;
+    height: 6vh;
+    border-radius: 7px;
+    padding-left: 4%;
+    color: white;
+}
+.email h1{
+    font-size: 15px; 
+    height: 1vh;
+}
+
+.dob{
+    background-color: 	
+    rgb(74, 74, 74);
+    width: 16vw;
+    height: 6vh;
+    border-radius: 7px;
+    padding-left: 4%;
+    color: white;
+}
+.dob h1{
+    font-size: 15px; 
+    height: 1vh;
+}
+
+.alternative{
+    background-color: 
+    rgb(74, 74, 74);
+    width: 16vw;
+    height: 6vh;
+    border-radius: 7px;
+    padding-left: 4%;
+    color: white;
+}
+.alternative h1{
+    font-size: 15px; 
+    height: 1vh;
+}
+
+.icon{
+    margin-left: 6%;
+}
+
+
+.btn button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 4vw;
+    height: 3vh;
+    margin-left: 380%;
+    margin-bottom:10% ;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: #1379f3;
+    border: transparent;
+}
+
+.delete button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 7vw;
+    height: 4vh;
+   
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: #1379f3;
+    border: transparent;
+
+}
+.delete{
+    display: flex;
+    column-gap: 7%;
+    margin-top: 8%;
+    margin-left: 4%;
+}
+
+.bck a p{
+    margin-left: 40%;
+    padding-top: 5%;
+}
+
+/* tect div */
+
+.phone p{
+padding-bottom: 4%;
+}
